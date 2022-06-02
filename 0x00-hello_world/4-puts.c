@@ -1,8 +1,9 @@
 #include <stdio.h>
 /*
- * main - Entry point
- * Return: Always 0 (Success)
- *     
+ * main - prints the string in the puts function
+ * Description: using the main function this prints
+ * "Programming is like building a multilingual puzzle"
+ *  Return: 0
  */
 int main(void)
 {
