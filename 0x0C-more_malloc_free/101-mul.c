@@ -171,4 +171,4 @@ int main(int argc, char *argv[])
 	_putchar('\n');
 	free(result);
 	exit(EXIT_SUCCESS);
-}a
+}
