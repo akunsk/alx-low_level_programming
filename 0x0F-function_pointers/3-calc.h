@@ -1,4 +1,4 @@
-#ifndef header 
+#ifndef header
 #define header
 /**
 * struct op - Struct op
