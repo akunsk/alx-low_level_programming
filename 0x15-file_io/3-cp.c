@@ -1,16 +1,19 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdlib.h>
+
 /**
  * _error - Read file.
  * @e: Error number
  * @filename: File name
  */
+
 void _error(int e, char *filename)
+
 {
 	if (e == 98)
 	{
