@@ -78,4 +78,4 @@ int getModulo(int num1, int num2){
     int modulo;
     modulo = num1 % num2;
     return modulo;
-}
+
